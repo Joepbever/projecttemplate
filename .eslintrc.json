@@ -1,0 +1,18 @@
+{
+  "env": {
+    "browser": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+    //    "ecmaFeatures": {
+    //      "jsx": true
+    //    }
+  },
+  "rules": {
+    //    "eqeqeq": "off",
+    "curly": "warn"
+    //    "quotes": ["warn", "double"]
+  }
+//  "extends": "airbnb"
+}
